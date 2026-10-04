@@ -1,83 +1,97 @@
 [
     {
+        "id": "1",
         "titulo": "Guitarra Elétrica Jackson JS32 Dinky",
         "preco": "4235 RS",
         "descricao": "A Jackson® JS Series Dinky® Arch Top JS32 DKA apresenta corpo em Poplar com topo arqueado e braço em Maple parafusado com reforço de grafite. Seus captadores humbucking de alto ganho com ímãs de cerâmica entregam sonoridade clara e potente para estilos musicais mais agressivos.",
         "especificacoes": "- Corpo: Choupo (Poplar)\n- Braço: Bordo (Maple)\n- Escala: Amaranto com 24 trastes Jumbo\n- Captadores: 2 Humbuckers Jackson de alta saída\n- Ponte: Tremolo Floyd Rose de duplo bloqueio\n- Orientação: Destro"
     },
     {
+        "id": "2",
         "titulo": "Guitarra Semi-acústica Giannini GAE06 DLX",
         "preco": "2.150 RS",
         "descricao": "A guitarra semi-acústica GAE06 DLX da linha Sonic Deluxe Giannini destaca-se pelo cuidado nos detalhes estéticos. Ela apresenta corpo em Maple, braço colado em formato 'C' e proporciona conforto, ergonomia e um timbre encorpado ideal para jazz e blues.",
         "especificacoes": "- Corpo: Maple (Semi-acústica)\n- Braço: Maple (Colado, formato 'C')\n- Escala: Rosewood com 22 trastes médio jumbo\n- Captadores: 2 Humbuckers cerâmicos\n- Ponte: Tune-O-Matic\n- Orientação: Destro"
     },
     {
+        "id": "3",
         "titulo": "Guitarra Elétrica Fender Signature Tom Morello Arm The Homeless",
         "preco": "18040 RS",
         "descricao": "Inspirada no modelo icônico de Tom Morello, esta guitarra canaliza desde frases de jazz até riffs de metal abrasadores. Possui headstock personalizado em formato de taco de hóquei, sistema de tremolo Gotoh com trava dupla e a famosa arte provocativa 'Arm The Homeless'.",
         "especificacoes": "- Corpo: Alder\n- Braço: Maple (Headstock 'taco de hóquei')\n- Escala: Rosewood com 22 trastes médios jumbo\n- Captadores: EMG H (Braço) e EMG 85 (Ponte)\n- Ponte: Tremolo Gotoh com trava dupla\n- Orientação: Destro"
     },
     {
+        "id": "4",
         "titulo": "Guitarra Elétrica Fender Squier Jazzmaster Classic Vibe 60s",
         "preco": "2075 RS",
         "descricao": "A Classic Vibe '60s Jazzmaster® é uma homenagem fiel aos modelos da década de 1960. Ela produz o inegável timbre Jazzmaster graças aos seus captadores alnico single-coil, oferecendo um braço em formato de 'C' fino e confortável com toque clássico.",
         "especificacoes": "- Corpo: Choupo (Poplar)\n- Braço: Ácer (Maple, formato 'C')\n- Escala: Loureiro indiano com 21 trastes\n- Captadores: 2 Fender Designed Alnico Single-Coil\n- Ponte: Vibrato flutuante estilo vintage sem bloqueio\n- Orientação: Destra"
     },
     {
+        "id": "5",
         "titulo": "Guitarra Headless Voik 600 VOIDLINE Ghost Fade",
         "preco": "1899 RS",
         "descricao": "A guitarra headless Voik 600 une design futurista e alta performance, ideal para músicos que buscam conforto e ergonomia. Sua ponte monorail com afinadores integrados oferece excelente estabilidade e um acabamento premium.",
         "especificacoes": "- Corpo: Mogno\n- Braço: Bordo torrado (Roasted Maple)\n- Escala: Bordo torrado com 24 trastes\n- Captadores: 2 Humbuckers\n- Ponte: Sistema Headless Individual (Monorail)\n- Orientação: Destro"
     },
     {
+        "id": "6",
         "titulo": "Bateria Eletrônica Kit Completo",
         "preco": "1077 RS",
         "descricao": "Desenvolvida especialmente para iniciantes e estudantes, esta bateria eletrônica dobrável oferece uma experiência de toque semelhante à de uma bateria acústica. Acompanha pads responsivos e módulos com centenas de sons, ideal para praticar em casa com baixo nível de ruído.",
         "especificacoes": "- Tambores: 4 Pads de 8 polegadas\n- Pratos: 3 Pads de 10 polegadas\n- Módulo de som: 120 sons integrados e 20 kits pré-configurados\n- Conectividade: USB MIDI, Entrada AUX e Saída para fones de ouvido\n- Extras: Metrônomo integrado e estrutura metálica dobrável"
     },
     {
+        "id": "7",
         "titulo": "Bateria Acústica Nagano Performance Blue",
         "preco": "10777 RS",
         "descricao": "A Bateria Nagano Performance Classic Full Cobalt Blue apresenta um kit com configuração expandida e timbres versáteis do agudo ao grave. Os tambores são construídos com cascos híbridos e acompanham um kit de ferragens duplas de excelente robustez.",
         "especificacoes": "- Cascos: Híbridos em Birch e Mahogany\n- Tons e Surdos: Tons de 8\", 10\" e 12\"; Surdos de 14\" e 16\"\n- Bumbo e Caixa: Bumbo 22x18\" e Caixa 14x7\"\n- Ferragens: Pedal, máquina de hi-hat, estantes e banco inclusos\n- Peles: Remo Pinstripe UT e Ambassador Coated UT"
     },
     {
+        "id": "8",
         "titulo": "Contrabaixo Elétrico Yamaha Trbx305",
         "preco": "4450 RS",
         "descricao": "O Contrabaixo Yamaha TRBX305 de 5 cordas combina um visual arrojado na cor vermelha envernizada com um circuito ativo avançado. Seus captadores duplos cerâmicos entregam um som moderno e altamente ajustável através do equalizador de 2 bandas integrado.",
         "especificacoes": "- Corpo: Mahogany\n- Braço: Maple (Bolt-on, formato \"C\")\n- Escala: Rosewood com 24 trastes\n- Captadores: 2 Double Coil Cerâmicos\n- Circuito: Ativo com equalizador de 2 bandas\n- Cordas: 5 cordas"
     },
     {
+        "id": "9",
         "titulo": "Contrabaixo Elétrico Strinberg JBS-40",
         "preco": "1229 RS",
         "descricao": "O Strinberg JBS40 Jazz Bass oferece a essência clássica dos baixos estilo Jazz com uma excelente relação custo-benefício. Apresenta controles de volume e tonalidade simples com captadores passivos, sendo uma ótima escolha para estudantes e músicos intermediários.",
         "especificacoes": "- Corpo: Basswood (Tília)\n- Braço: Maple (Bolt-on, formato \"C\")\n- Escala: Rosewood com 21 trastes\n- Captadores: 2 Single-Coil estilo Jazz Bass (SS)\n- Circuito: Passivo\n- Cordas: 4 cordas"
     },
     {
+        "id": "10",
         "titulo": "Amplificador de Guitarra Meteoro Vulcano Space Jr",
         "preco": "471 RS",
         "descricao": "Um amplificador do tipo combo transistor leve, compacto e resistente. O Meteoro Space Junior possui dois canais que permitem a transição entre sons limpos e distorcidos, ideal para estudos diários de guitarra.",
         "especificacoes": "- Tipo: Amplificador Combo Transistor\n- Potência/Canais: 2 canais\n- Conectores: Entrada P10 / Saída P10\n- Voltagem: 110V/220V\n- Peso: 4.1 kg"
     },
     {
+        "id": "11",
         "titulo": "Amplificador de Guitarra Fender Champion Li",
         "preco": "2970 RS",
         "descricao": "O Fender Champion Li é um amplificador prático de alta qualidade, característico do design icônico da Fender. Com controles fáceis de usar e saída de som excepcional, ele conta com canais versáteis e reverb embutido para dar profundidade ao timbre.",
         "especificacoes": "- Tipo: Amplificador Combo Transistor\n- Potência/Canais: 2 canais\n- Conectores: Entrada Jack\n- Efeitos: Reverb integrado\n- Peso: 8.6 kg"
     },
     {
+        "id": "11",
         "titulo": "Flauta Doce Soprano Yamaha Yrs23g",
         "preco": "47 RS",
         "descricao": "A Flauta Doce Soprano Yamaha YRS-23G é amplamente recomendada por educadores musicais de todo o mundo. Construída em resina ABS durável, ela utiliza o sistema germânico que facilita o aprendizado das primeiras notas para jovens estudantes.",
         "especificacoes": "- Tipo: Flauta Doce Soprano (Afinação em Dó)\n- Sistema de Digitação: Germânico\n- Material: Resina ABS de alta durabilidade\n- Construção: Corpo dividido em 3 partes\n- Indicação: Estudantes, iniciantes e musicalização infantil"
     },
     {
+        "id": "12",
         "titulo": "Teclado Sintetizador Roland XPS-10X 61",
         "preco": "4599 RS",
         "descricao": "O Roland XPS-10X BK é um sintetizador prático e profissional, oferecendo mais de 1600 timbres variados e de altíssima qualidade. Com pads multifuncionais e opção de carregamento de expansões, entrega muita versatilidade para palcos e estúdios.",
         "especificacoes": "- Teclas: 61 teclas sensíveis à velocidade\n- Polifonia: 128 vozes\n- Sons: Mais de 1600 timbres integrados e suporte a expansões World\n- Recursos Adicionais: 8 pads multifuncionais, sequencer de 8 pistas e player de áudio\n- Conectividade: Porta USB-C (Áudio e MIDI)"
     },
     {
+        "id": "13",
         "titulo": "Pedaleira Multiefeitos Boss Me 90",
         "preco": "4748 RS",
         "descricao": "A BOSS ME-90 é uma pedaleira multiefeitos focada na praticidade, permitindo ajustar efeitos rapidamente através de knobs. Construída com tecnologia de modelagem AIRD de 32 bits, ela traz qualidade de estúdio e flexibilidade de gravação por meio de sua interface USB.",

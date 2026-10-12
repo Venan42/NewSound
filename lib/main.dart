@@ -8,8 +8,8 @@ import 'telas/equipamentos.dart';
 import 'telas/especificacoes.dart';
 import 'telas/carrinho.dart';
 
-const Color azul = Color(0xFF1565C0);
-const Color vermelho = Color(0xFFD32F2F);
+const Color corPrimaria = Color(0xFF1565C0);
+const Color corSecundaria = Color(0xFFD32F2F);
 
 void main() {
   runApp(
@@ -33,32 +33,32 @@ class NewSound extends StatelessWidget {
         scaffoldBackgroundColor: Colors.white,
         colorScheme: const ColorScheme(
           brightness: Brightness.light,
-          primary: azul,
+          primary: corPrimaria,
           onPrimary: Colors.white,
-          secondary: vermelho,
+          secondary: corSecundaria,
           onSecondary: Colors.white,
-          error: vermelho,
+          error: corSecundaria,
           onError: Colors.white,
           surface: Colors.white,
           onSurface: Color(0xFF1B1B1F),
         ),
         appBarTheme: const AppBarTheme(
-          backgroundColor: azul,
+          backgroundColor: corPrimaria,
           foregroundColor: Colors.white,
           centerTitle: true,
         ),
         elevatedButtonTheme: ElevatedButtonThemeData(
           style: ElevatedButton.styleFrom(
-            backgroundColor: azul,
+            backgroundColor: corPrimaria,
             foregroundColor: Colors.white,
             disabledBackgroundColor: Colors.grey.shade300,
           ),
         ),
         textButtonTheme: TextButtonThemeData(
-          style: TextButton.styleFrom(foregroundColor: azul),
+          style: TextButton.styleFrom(foregroundColor: corPrimaria),
         ),
         snackBarTheme: const SnackBarThemeData(
-          backgroundColor: azul,
+          backgroundColor: corPrimaria,
           contentTextStyle: TextStyle(color: Colors.white),
           behavior: SnackBarBehavior.floating,
         ),
@@ -92,7 +92,10 @@ class TelaPrincipal extends StatelessWidget {
             SvgPicture.asset(
               'assets/imgs/guitar-amp-svgrepo-com.svg',
               height: 28,
-              colorFilter: const ColorFilter.mode(Colors.white, BlendMode.srcIn),
+              colorFilter: const ColorFilter.mode(
+                Colors.white,
+                BlendMode.srcIn,
+              ),
             ),
             const SizedBox(width: 8),
             const Text(
@@ -132,7 +135,7 @@ class TelaPrincipal extends StatelessWidget {
                 value: 'login',
                 child: Row(
                   children: [
-                    Icon(Icons.login, color: azul),
+                    Icon(Icons.login, color: corPrimaria),
                     SizedBox(width: 8),
                     Text('Login'),
                   ],
@@ -143,7 +146,7 @@ class TelaPrincipal extends StatelessWidget {
                 value: 'logout',
                 child: Row(
                   children: [
-                    Icon(Icons.logout, color: vermelho),
+                    Icon(Icons.logout, color: corSecundaria),
                     SizedBox(width: 8),
                     Text('Logout'),
                   ],
@@ -151,6 +154,42 @@ class TelaPrincipal extends StatelessWidget {
               ),
           ],
         ),
+        actions: [
+          Stack(
+            alignment: Alignment.center,
+            children: [
+              IconButton(
+                icon: const Icon(Icons.shopping_cart_outlined),
+                onPressed: () => estado.exibirCarrinho(),
+              ),
+              if (estado.carrinho.isNotEmpty)
+                Positioned(
+                  right: 6,
+                  top: 6,
+                  child: Container(
+                    padding: const EdgeInsets.all(4),
+                    decoration: BoxDecoration(
+                      color: Theme.of(context).colorScheme.secondary,
+                      shape: BoxShape.circle,
+                    ),
+                    constraints: const BoxConstraints(
+                      minWidth: 16,
+                      minHeight: 16,
+                    ),
+                    child: Text(
+                      '${estado.carrinho.length}',
+                      style: const TextStyle(
+                        color: Colors.white,
+                        fontSize: 10,
+                        fontWeight: FontWeight.bold,
+                      ),
+                      textAlign: TextAlign.center,
+                    ),
+                  ),
+                ),
+            ],
+          ),
+        ],
       ),
       body: telaAtual,
     );

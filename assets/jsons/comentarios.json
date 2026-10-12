@@ -1,0 +1,212 @@
+[
+  {
+    "idEquipamento": 1,
+    "usuario": "Rafael M.",
+    "nota": 5,
+    "texto": "Excelente instrumento, superou minhas expectativas. Recomendo!"
+  },
+  {
+    "idEquipamento": 1,
+    "usuario": "Lucas P.",
+    "nota": 5,
+    "texto": "Chegou bem embalado e funciona perfeitamente. Compraria de novo."
+  },
+  {
+    "idEquipamento": 1,
+    "usuario": "Diego F.",
+    "nota": 4,
+    "texto": "Ótimo para quem está começando ou quer algo confiável nos ensaios."
+  },
+  {
+    "idEquipamento": 2,
+    "usuario": "Camila S.",
+    "nota": 4,
+    "texto": "Muito bom pelo preço, acabamento bonito e som de qualidade."
+  },
+  {
+    "idEquipamento": 2,
+    "usuario": "Ana Beatriz",
+    "nota": 3,
+    "texto": "É bom, mas esperava um pouco mais pelo valor. Atende o básico."
+  },
+  {
+    "idEquipamento": 3,
+    "usuario": "Lucas P.",
+    "nota": 5,
+    "texto": "Chegou bem embalado e funciona perfeitamente. Compraria de novo."
+  },
+  {
+    "idEquipamento": 3,
+    "usuario": "Diego F.",
+    "nota": 4,
+    "texto": "Ótimo para quem está começando ou quer algo confiável nos ensaios."
+  },
+  {
+    "idEquipamento": 3,
+    "usuario": "Marcos T.",
+    "nota": 4,
+    "texto": "Bom custo-benefício. Só precisei fazer um pequeno ajuste inicial."
+  },
+  {
+    "idEquipamento": 4,
+    "usuario": "Ana Beatriz",
+    "nota": 3,
+    "texto": "É bom, mas esperava um pouco mais pelo valor. Atende o básico."
+  },
+  {
+    "idEquipamento": 4,
+    "usuario": "Juliana R.",
+    "nota": 5,
+    "texto": "Qualidade impecável, o som é muito claro. Vale cada centavo."
+  },
+  {
+    "idEquipamento": 5,
+    "usuario": "Diego F.",
+    "nota": 4,
+    "texto": "Ótimo para quem está começando ou quer algo confiável nos ensaios."
+  },
+  {
+    "idEquipamento": 5,
+    "usuario": "Marcos T.",
+    "nota": 4,
+    "texto": "Bom custo-benefício. Só precisei fazer um pequeno ajuste inicial."
+  },
+  {
+    "idEquipamento": 5,
+    "usuario": "Camila S.",
+    "nota": 4,
+    "texto": "Muito bom pelo preço, acabamento bonito e som de qualidade."
+  },
+  {
+    "idEquipamento": 6,
+    "usuario": "Juliana R.",
+    "nota": 5,
+    "texto": "Qualidade impecável, o som é muito claro. Vale cada centavo."
+  },
+  {
+    "idEquipamento": 6,
+    "usuario": "Rafael M.",
+    "nota": 5,
+    "texto": "Excelente instrumento, superou minhas expectativas. Recomendo!"
+  },
+  {
+    "idEquipamento": 7,
+    "usuario": "Marcos T.",
+    "nota": 4,
+    "texto": "Bom custo-benefício. Só precisei fazer um pequeno ajuste inicial."
+  },
+  {
+    "idEquipamento": 7,
+    "usuario": "Camila S.",
+    "nota": 4,
+    "texto": "Muito bom pelo preço, acabamento bonito e som de qualidade."
+  },
+  {
+    "idEquipamento": 7,
+    "usuario": "Ana Beatriz",
+    "nota": 3,
+    "texto": "É bom, mas esperava um pouco mais pelo valor. Atende o básico."
+  },
+  {
+    "idEquipamento": 8,
+    "usuario": "Rafael M.",
+    "nota": 5,
+    "texto": "Excelente instrumento, superou minhas expectativas. Recomendo!"
+  },
+  {
+    "idEquipamento": 8,
+    "usuario": "Lucas P.",
+    "nota": 5,
+    "texto": "Chegou bem embalado e funciona perfeitamente. Compraria de novo."
+  },
+  {
+    "idEquipamento": 9,
+    "usuario": "Camila S.",
+    "nota": 4,
+    "texto": "Muito bom pelo preço, acabamento bonito e som de qualidade."
+  },
+  {
+    "idEquipamento": 9,
+    "usuario": "Ana Beatriz",
+    "nota": 3,
+    "texto": "É bom, mas esperava um pouco mais pelo valor. Atende o básico."
+  },
+  {
+    "idEquipamento": 9,
+    "usuario": "Juliana R.",
+    "nota": 5,
+    "texto": "Qualidade impecável, o som é muito claro. Vale cada centavo."
+  },
+  {
+    "idEquipamento": 10,
+    "usuario": "Lucas P.",
+    "nota": 5,
+    "texto": "Chegou bem embalado e funciona perfeitamente. Compraria de novo."
+  },
+  {
+    "idEquipamento": 10,
+    "usuario": "Diego F.",
+    "nota": 4,
+    "texto": "Ótimo para quem está começando ou quer algo confiável nos ensaios."
+  },
+  {
+    "idEquipamento": 11,
+    "usuario": "Ana Beatriz",
+    "nota": 3,
+    "texto": "É bom, mas esperava um pouco mais pelo valor. Atende o básico."
+  },
+  {
+    "idEquipamento": 11,
+    "usuario": "Juliana R.",
+    "nota": 5,
+    "texto": "Qualidade impecável, o som é muito claro. Vale cada centavo."
+  },
+  {
+    "idEquipamento": 11,
+    "usuario": "Rafael M.",
+    "nota": 5,
+    "texto": "Excelente instrumento, superou minhas expectativas. Recomendo!"
+  },
+  {
+    "idEquipamento": 12,
+    "usuario": "Diego F.",
+    "nota": 4,
+    "texto": "Ótimo para quem está começando ou quer algo confiável nos ensaios."
+  },
+  {
+    "idEquipamento": 12,
+    "usuario": "Marcos T.",
+    "nota": 4,
+    "texto": "Bom custo-benefício. Só precisei fazer um pequeno ajuste inicial."
+  },
+  {
+    "idEquipamento": 13,
+    "usuario": "Juliana R.",
+    "nota": 5,
+    "texto": "Qualidade impecável, o som é muito claro. Vale cada centavo."
+  },
+  {
+    "idEquipamento": 13,
+    "usuario": "Rafael M.",
+    "nota": 5,
+    "texto": "Excelente instrumento, superou minhas expectativas. Recomendo!"
+  },
+  {
+    "idEquipamento": 13,
+    "usuario": "Lucas P.",
+    "nota": 5,
+    "texto": "Chegou bem embalado e funciona perfeitamente. Compraria de novo."
+  },
+  {
+    "idEquipamento": 14,
+    "usuario": "Marcos T.",
+    "nota": 4,
+    "texto": "Bom custo-benefício. Só precisei fazer um pequeno ajuste inicial."
+  },
+  {
+    "idEquipamento": 14,
+    "usuario": "Camila S.",
+    "nota": 4,
+    "texto": "Muito bom pelo preço, acabamento bonito e som de qualidade."
+  }
+]

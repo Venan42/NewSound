@@ -14,7 +14,9 @@ class Usuario {
     }
   }
 
-  adicionarCompras(List<dynamic> carrinho) {
-    _compras.add(carrinho);
+  void adicionarCompras(List<dynamic> carrinho) {
+    _compras.addAll(carrinho);
   }
 }
+
+final Usuario usuarioMock = Usuario("Usuário Mock", "mock@email.com");

@@ -104,7 +104,6 @@ class TelaPrincipal extends StatelessWidget {
             ),
           ],
         ),
-        // Ícone de usuário no canto superior esquerdo, com seletor abaixo
         leading: PopupMenuButton<String>(
           tooltip: 'Conta',
           position: PopupMenuPosition.under,
